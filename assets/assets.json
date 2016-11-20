@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "baddie.png",
+	"frame": {"x":0,"y":0,"w":128,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":32},
+	"sourceSize": {"w":128,"h":32}
+},
+{
+	"filename": "diamond.png",
+	"frame": {"x":128,"y":0,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":28},
+	"sourceSize": {"w":32,"h":28}
+},
+{
+	"filename": "dude.png",
+	"frame": {"x":160,"y":0,"w":288,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":48},
+	"sourceSize": {"w":288,"h":48}
+},
+{
+	"filename": "firstaid.png",
+	"frame": {"x":448,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "platform.png",
+	"frame": {"x":480,"y":0,"w":400,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":32},
+	"sourceSize": {"w":400,"h":32}
+},
+{
+	"filename": "sky.png",
+	"frame": {"x":0,"y":48,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+},
+{
+	"filename": "star.png",
+	"frame": {"x":800,"y":48,"w":24,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":22},
+	"sourceSize": {"w":24,"h":22}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "map.png",
+	"format": "RGBA8888",
+	"size": {"w":880,"h":648},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:53f0b77a502aa566f3f94363481a4f3a:6df3f20715166db451d6c50462119b91:6d69d5f2593d6dd8ed3a8b13d0de2dfe$"
+}
+}
